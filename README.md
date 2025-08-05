@@ -49,7 +49,6 @@ This project performs **Exploratory Data Analysis (EDA)** on a dataset of video 
 ```
 ├── data/               # Raw dataset (CSV)
 ├── notebook/           # Jupyter Notebook files
-├── images/             # Plots and visualizations
 └── README.md
 ```
 
