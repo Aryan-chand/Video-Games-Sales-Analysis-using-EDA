@@ -5,7 +5,7 @@ This project performs **Exploratory Data Analysis (EDA)** on a dataset of video 
 ## 📁 Dataset
 
 - **Source**: [Kaggle - Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales)
-- **Features**: Game Name, Platform, Year, Genre, Publisher, Global & Regional Sales
+- **Features**: Game Name, Platform, Year, Genre, Publisher, Global & Regional Sales.
 
 ## 📊 Objectives
 
